@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>jeet-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M45.381,13.031 C45.163,14.952 44.785,16.822 44.27,18.634 C44.047,31.299 34.085,41.584 21.55,42.316 C19.31,43.056 16.973,43.581 14.558,43.855 L0.701,57.711 L41.418,98.429 L54.329,85.52 C55.325,67.742 69.563,53.504 87.34,52.508 L98.173,41.674 L57.456,0.957 L45.381,13.031 L45.381,13.031 Z"></path>
+        <linearGradient x1="57.4712925%" y1="41.3761357%" x2="42.5181371%" y2="58.6496973%" id="linearGradient-3">
+            <stop stop-color="#09E09C" offset="0%"></stop>
+            <stop stop-color="#00BFFF" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-4" d="M0.717,41.447 L12.791,53.521 C28.953,55.361 41.774,68.183 43.615,84.343 L57.472,98.202 L98.19,57.484 L85.279,44.572 C82.74,44.43 80.277,44.009 77.911,43.355 C65.155,43.247 54.76,33.253 54.01,20.66 C53.049,17.774 52.445,14.726 52.268,11.562 L41.435,0.729 L0.717,41.447 L0.717,41.447 Z"></path>
+        <linearGradient x1="42.5590909%" y1="42.1601215%" x2="57.7007294%" y2="58.0716738%" id="linearGradient-6">
+            <stop stop-color="#FFC800" offset="0%"></stop>
+            <stop stop-color="#00BFFF" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-7" d="M43.933,13.618 C42.937,31.394 28.699,45.632 10.922,46.629 L0.087,57.462 L40.805,98.18 L52.88,86.105 C53.095,84.212 53.467,82.365 53.972,80.576 C53.97,80.451 53.962,80.328 53.962,80.202 C53.962,66.86 64.778,56.044 78.121,56.044 C78.513,56.044 78.903,56.055 79.291,56.073 C80.729,55.719 82.202,55.452 83.704,55.281 L97.561,41.424 L56.843,0.706 L43.933,13.618 L43.933,13.618 Z"></path>
+        <linearGradient x1="42.2494934%" y1="57.8534163%" x2="57.1262472%" y2="42.7200115%" id="linearGradient-9">
+            <stop stop-color="#FFC800" offset="0%"></stop>
+            <stop stop-color="#FF664A" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-10" d="M0.374,41.662 L13.286,54.572 C14.986,54.668 16.653,54.886 18.282,55.216 C19.214,55.107 20.161,55.044 21.122,55.044 C34.465,55.044 45.282,65.86 45.282,79.202 C45.282,79.724 45.259,80.241 45.227,80.755 C45.796,82.955 46.165,85.238 46.297,87.584 L57.13,98.417 L97.848,57.7 L85.773,45.625 C69.611,43.786 56.789,30.963 54.949,14.801 L41.092,0.944 L0.374,41.662 L0.374,41.662 Z"></path>
+        <linearGradient x1="59.5165593%" y1="59.2351363%" x2="41.8156281%" y2="42.0471873%" id="linearGradient-12">
+            <stop stop-color="#09E09C" offset="0%"></stop>
+            <stop stop-color="#FF664A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="jeet-logo" sketch:type="MSLayerGroup">
+            <g id="Clipped" transform="translate(75.000000, 76.000000)">
+                <mask id="mask-2" sketch:name="SVGID_1_" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="SVGID_1_"></g>
+                <path d="M146.407,42.713 L56.419,146.663 L-47.532,56.676 L42.456,-47.275 L146.407,42.713 Z" id="Shape" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Clipped" transform="translate(17.000000, 75.000000)">
+                <mask id="mask-5" sketch:name="SVGID_4_" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <g id="SVGID_4_"></g>
+                <path d="M51.869,-47.947 L146.868,51.882 L47.039,146.88 L-47.959,47.051 L51.869,-47.947 Z" id="Shape" fill="url(#linearGradient-6)" sketch:type="MSShapeGroup" mask="url(#mask-5)"></path>
+            </g>
+            <g id="Clipped" transform="translate(17.000000, 14.000000)">
+                <mask id="mask-8" sketch:name="SVGID_7_" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="SVGID_7_"></g>
+                <path d="M-48.643,50.276 L47.991,-48.023 L146.292,48.61 L49.658,146.91 L-48.643,50.276 Z" id="Shape" fill="url(#linearGradient-9)" sketch:type="MSShapeGroup" mask="url(#mask-8)"></path>
+            </g>
+            <g id="Clipped" transform="translate(74.000000, 15.000000)">
+                <mask id="mask-11" sketch:name="SVGID_10_" fill="white">
+                    <use xlink:href="#path-10"></use>
+                </mask>
+                <g id="SVGID_10_"></g>
+                <path d="M50.543,147.133 L-48.342,51.114 L47.677,-47.771 L146.563,48.248 L50.543,147.133 Z" id="Shape" fill="url(#linearGradient-12)" sketch:type="MSShapeGroup" mask="url(#mask-11)"></path>
+            </g>
+            <path d="M35.065,129.269 C15.699,129.269 0,113.569 0,94.203 C0,74.836 15.699,59.137 35.065,59.137 C54.431,59.137 70.13,74.836 70.13,94.203 C70.13,113.569 54.431,129.269 35.065,129.269" id="Shape" fill="#FFC800" sketch:type="MSShapeGroup"></path>
+            <path d="M94.203,70.131 C74.837,70.131 59.138,54.432 59.138,35.066 C59.137,15.699 74.836,0 94.203,0 C113.569,0 129.268,15.699 129.268,35.066 C129.268,54.432 113.568,70.131 94.203,70.131" id="Shape" fill="#FF664A" sketch:type="MSShapeGroup"></path>
+            <path d="M95.122,189.09 C75.756,189.09 60.057,173.391 60.057,154.025 C60.057,134.658 75.756,118.959 95.122,118.959 C114.488,118.959 130.187,134.658 130.187,154.025 C130.187,173.391 114.488,189.09 95.122,189.09" id="Shape" fill="#00BFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M154.752,130.445 C135.386,130.445 119.687,114.746 119.687,95.38 C119.687,76.013 135.386,60.314 154.752,60.314 C174.118,60.314 189.817,76.013 189.817,95.38 C189.817,114.746 174.118,130.445 154.752,130.445" id="Shape" fill="#09E09C" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

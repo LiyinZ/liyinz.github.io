@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 33</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Line" sketch:type="MSArtboardGroup" transform="translate(-568.000000, -1035.000000)" fill="#F7F7F7">
+            <g id="Line-Icon-Set" sketch:type="MSLayerGroup" transform="translate(99.000000, 98.000000)">
+                <path d="M485,967 C477.268,967 471,960.73 471,953 C471,945.27 477.268,939 485,939 C492.732,939 499,945.27 499,953 C499,960.73 492.732,967 485,967 L485,967 Z M485,937 C476.163,937 469,944.16 469,953 C469,961.84 476.163,969 485,969 C493.837,969 501,961.84 501,953 C501,944.16 493.837,937 485,937 L485,937 Z M489.535,944.46 C489.145,944.07 488.512,944.07 488.121,944.46 L480.465,952.12 C480.225,952.36 480.15,952.69 480.205,953 C480.15,953.31 480.225,953.64 480.465,953.88 L488.121,961.54 C488.512,961.93 489.145,961.93 489.535,961.54 C489.926,961.14 489.926,960.51 489.535,960.12 L482.414,953 L489.535,945.88 C489.926,945.49 489.926,944.86 489.535,944.46 L489.535,944.46 Z" id="Fill-33" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

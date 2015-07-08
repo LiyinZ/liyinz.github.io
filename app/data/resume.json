@@ -1,0 +1,279 @@
+{
+  "education": [
+    {
+      "from": 2014,
+      "to": 0,
+      "logo": "gc-logo.svg",
+      "institution": "Georgian College",
+      "location": "Barrie ON",
+      "program": "interactive web design and development"
+    },
+    {
+      "from": 2012,
+      "to": 2014,
+      "logo": "uw-logo.png",
+      "institution": "University of Waterloo",
+      "location": "Waterloo ON",
+      "program": "computer science"
+    }
+  ],
+
+  "technologies": [
+    {
+      "category": "Languages",
+      "items": [
+        {
+          "name": "JavaScript",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "logo": "js-logo.png"
+        },
+        {
+          "name": "PHP",
+          "url": "http://php.net/",
+          "logo": "php-logo.svg"
+        },
+        {
+          "name": "Python",
+          "url": "https://www.python.org/",
+          "logo": "python-logo.png"
+        },
+        {
+          "name": "Ruby",
+          "url": "https://www.ruby-lang.org/en/",
+          "logo": "ruby-logo.svg"
+        },
+        {
+          "name": "CSS",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "logo": "css3-logo.svg"
+        },
+        {
+          "name": "HTML",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+          "logo": "html5-logo.svg"
+        }
+      ]
+    },
+    {
+      "category": "Preprocessors",
+      "items": [
+        {
+          "name": "Jade",
+          "url": "http://jade-lang.com/",
+          "logo": "jade-logo.svg"
+        },
+        {
+          "name": "Stylus",
+          "url": "https://learnboost.github.io/stylus/",
+          "logo": "stylus-logo.png"
+        },
+        {
+          "name": "Sass",
+          "url": "http://www.sass-lang.com/",
+          "logo": "sass-logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Libs / Frameworks",
+      "items": [
+        {
+          "name": "AngularJS",
+          "url": "https://angularjs.org/",
+          "logo": "angularjs-logo.png"
+        },
+        {
+          "name": "React",
+          "url": "http://facebook.github.io/react/",
+          "logo": "react-logo.svg"
+        },
+        {
+          "name": "jQuery",
+          "url": "http://jquery.com/",
+          "logo": "jquery-logo.gif"
+        },
+        {
+          "name": "Firebase",
+          "url": "https://www.firebase.com/",
+          "logo": "firebase-logo.jpg"
+        },
+        {
+          "name": "Jeet",
+          "url": "http://jeet.gs/",
+          "logo": "jeet-logo.svg"
+        },
+        {
+          "name": "Bourbon / Neat",
+          "url": "http://bourbon.io/",
+          "logo": "neat-logo.svg"
+        },
+        {
+          "name": "Bootstrap",
+          "url": "http://getbootstrap.com/",
+          "logo": "bootstrap-logo.svg"
+        },
+        {
+          "name": "Materialize",
+          "url": "http://materializecss.com/",
+          "logo": "materialize-logo.png"
+        },
+        {
+          "name": "Laravel",
+          "url": "http://laravel.com/",
+          "logo": "laravel-logo.png"
+        },
+        {
+          "name": "Slim",
+          "url": "http://www.slimframework.com/",
+          "logo": "php-slim-logo.png"
+        },
+        {
+          "name": "RedBean (ORM)",
+          "url": "http://redbeanphp.com/",
+          "logo": "redbeanphp-logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Database",
+      "items": [
+        {
+          "name": "MySQL",
+          "url": "https://www.mysql.com/",
+          "logo": "mysql-logo.png"
+        },
+        {
+          "name": "JSON",
+          "url": "http://json.org/",
+          "logo": "json-logo.png"
+        },
+        {
+          "name": "XML",
+          "url": "http://www.w3.org/XML/",
+          "logo": "xml-logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Workflow",
+      "items": [
+        {
+          "name": "Unix Command Line",
+          "url": "https://en.wikipedia.org/wiki/Command-line_interface",
+          "logo": "terminal-icon.png"
+        },
+        {
+          "name": "Git",
+          "url": "https://git-scm.com/",
+          "logo": "git-logo.png"
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/",
+          "logo": "github-icon.svg"
+        },
+        {
+          "name": "Gulp",
+          "url": "http://gulpjs.com/",
+          "logo": "gulp-logo.svg"
+        },
+        {
+          "name": "Bower",
+          "url": "http://bower.io/",
+          "logo": "bower-logo.png"
+        },
+        {
+          "name": "Yeoman",
+          "url": "http://yeoman.io/",
+          "logo": "yeoman-logo.png"
+        },
+        {
+          "name": "JetBrains IDE",
+          "url": "https://www.jetbrains.com/",
+          "logo": "webstorm-logo.png"
+        },
+        {
+          "name": "Sublime Text",
+          "url": "http://www.sublimetext.com/",
+          "logo": "sublime3-logo.png"
+        },
+        {
+          "name": "Vim",
+          "url": "http://www.vim.org/about.php",
+          "logo": "vim-logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Design",
+      "items": [
+        {
+          "name": "Sketch",
+          "url": "http://bohemiancoding.com/sketch/",
+          "logo": "sketch-icon.png"
+        },
+        {
+          "name": "Pen & Paper",
+          "url": "",
+          "logo": "pen-paper-icon.svg"
+        },
+        {
+          "name": "Photoshop",
+          "url": "",
+          "logo": "photoshop-icon.png"
+        },
+        {
+          "name": "Illustrator",
+          "url": "",
+          "logo": "illustrator-icon.png"
+        }
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "type": "Work",
+      "positions": [
+        {
+          "employer": "Georgian College - Barrie, ON",
+          "title": "Peer Tutor",
+          "time": "Sep 2014 - Aug 2015",
+          "desc": "Due to my prior learning experience, I was able to become a peer tutor in the first semester entering the college, helping peers in courses such as Web and Internet Fundamentals, Intro to Web Programming, Relational Database, etc. Many of my students become close friends and achieved great success academically. I also give advice beyond course material form time to time."
+        }
+      ]
+    },
+    {
+      "type": "Events",
+      "positions": [
+        {
+          "employer": "Startup Weekend - Barrie, ON",
+          "title": "Team Leader",
+          "time": "Oct 3 - Oct 5 2014",
+          "desc": "Pitched an idea and received the 2nd most vote count out of 9 pitches. With 2 team members joining, we discussed, planned, and revised our business model through out the weekend. Presented on the last day with a web prototype and received great advice from the panel of judges. Did not pursue idea due to high starting cost of project."
+        }
+      ]
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "The NetGain Web Design and Development Award for 1st Year",
+      "date": "April 24, 2015",
+      "img": "gc-first-year-award.jpg",
+      "desc": "1st Award out of 4 awards from the Georgian College Innovation Showcase"
+    },
+    {
+      "title": "The Treefrog Inc. Web Design Award",
+      "date": "April 24, 2015",
+      "img": "gc-web-design-award.jpg",
+      "desc": "2nd Award out of 4 awards from the Georgian College Innovation Showcase"
+    },
+    {
+      "title": "Completion of MITx Intro to Computer Science course",
+      "date": "June 10, 2013",
+      "img": "MITx-cert.png",
+      "desc": "Participated and achieved 88% in a Computer Science MOOC offered by MIT edX."
+    }
+  ]
+}

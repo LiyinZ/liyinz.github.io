@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+app/case-study/
+app/components/
+app/home/
+app/services/
+app/styles/
+Makefile

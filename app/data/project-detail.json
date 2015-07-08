@@ -1,0 +1,109 @@
+{
+  "todo-post-app": {
+    "title": "Todo Post-it App",
+    "pageCover": "tdp-ss.png",
+    "desc": "Draggable post it notes with built-in todo list functions and real time syncing.",
+    "stack": [
+      {
+        "name": "AngularJS",
+        "url": "https://angularjs.org",
+        "logo": "angularjs-logo.png"
+      },
+      {
+        "name": "Sass",
+        "url": "http://www.sass-lang.com/",
+        "logo": "sass-logo.png"
+      },
+      {
+        "name": "Bower",
+        "url": "http://bower.io/",
+        "logo": "bower-logo.png"
+      },
+      {
+        "name": "Gulp",
+        "url": "http://gulpjs.com/",
+        "logo": "gulp-logo.svg"
+      },
+      {
+        "name": "Yeoman",
+        "url": "http://yeoman.io/",
+        "logo": "yeoman-logo.png"
+      },
+      {
+        "name": "Firebase",
+        "url": "https://www.firebase.com/",
+        "logo": "firebase-logo.jpg"
+      }
+    ],
+    "html": "app/case-study/todo-post-app.html"
+  },
+  "pms": {
+    "title": "Property Management System",
+    "pageCover": "pms-ss.png",
+    "desc": "A property management system built with PHP Slim as back end and Bourbon Neat, a Sass framework as front end.",
+    "stack": [
+      {
+        "name": "Slim",
+        "url": "http://www.slimframework.com/",
+        "logo": "php-slim-logo.png"
+      },
+      {
+        "name": "RedBean (ORM)",
+        "url": "http://redbeanphp.com/",
+        "logo": "redbeanphp-logo.png"
+      },
+      {
+        "name": "Bourbon / Neat",
+        "url": "http://bourbon.io/",
+        "logo": "neat-logo.svg"
+      }
+    ],
+    "html": "app/case-study/pms.html"
+  },
+  "iwdd-showcase": {
+    "title": "IWDD Showcase",
+    "pageCover": "iwdd-ss.png",
+    "desc": "A simple web app that allows students in the Web Design program to share and showcase their projects.",
+    "stack": [
+      {
+        "name": "PHP",
+        "url": "http://php.net/",
+        "logo": "php-logo.svg"
+      },
+      {
+        "name": "Materialize",
+        "url": "http://materializecss.com/",
+        "logo": "materialize-logo.png"
+      },
+      {
+        "name": "MySQL",
+        "url": "https://www.mysql.com/",
+        "logo": "mysql-logo.png"
+      }
+    ],
+    "html": "app/case-study/iwddshow.html"
+  },
+  "my-todo-app": {
+    "title": "My Todo App",
+    "pageCover": "my-todo-app-ss.png",
+    "desc": "My first ever web app, started from scratch, circa Nov 2013.",
+    "stack": [
+      {
+        "name": "jQuery",
+        "url": "http://jquery.com/",
+        "logo": "jquery-logo.gif"
+      },
+      {
+        "name": "HTML",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "logo": "html5-logo.svg"
+      },
+      {
+        "name": "CSS",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "logo": "css3-logo.svg"
+      }
+    ],
+    "html": "app/case-study/my-todo-app.html"
+  }
+}

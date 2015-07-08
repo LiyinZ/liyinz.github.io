@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58px" height="106px" viewBox="0 0 58 106" version="1.1">
+  <title>
+    Go Left
+  </title>
+  <desc>
+    Big Left Arrow Icon
+  </desc>
+  <defs>
+    <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0.400111607   0 0 0 0 0.400111607   0 0 0 0 0.400111607  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g id="Work" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g class="icon-fill" transform="translate(-17.000000, -458.000000)" stroke-linecap="square" stroke="#333" filter="url(#filter-1)">
+      <g id="Arrow-Control" transform="translate(20.000000, 462.000000)">
+        <path d="M1.56685285 49.75L0.975532341 49.1586795 1.32908573 48.8051261 49.1464466 0.987766167 49.5 0.63421278 50.2071068 1.34131957 49.8535534 1.69487296 2.29842635 49.249999 2.53619347 49.4877662 50.3535534 97.3051271 50.7071068 97.6586804 50 98.3657872 49.6464466 98.0122338 1.82908668 50.1948729 1.47553329 49.8413196 1.56685285 49.75Z" id="Go-Left"/>
+      </g>
+    </g>
+  </g>
+</svg>
