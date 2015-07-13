@@ -51,6 +51,11 @@
           "name": "HTML",
           "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
           "logo": "html5-logo.svg"
+        },
+        {
+          "name": "C#",
+          "url": "https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx",
+          "logo": "c-sharp-logo.svg"
         }
       ]
     },
